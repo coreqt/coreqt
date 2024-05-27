@@ -40,7 +40,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <div>
 
   <div align="center">
-    <a href="#"><img alt="anuj-weebjs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-weebjs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-weebjs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <a href="#"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-weebjs&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
 
