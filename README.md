@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a 16 years old backend developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I'm a backend developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 ## 🛠️ &nbsp;Tech Stack
 
