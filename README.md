@@ -1,5 +1,5 @@
 ## 🌐 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/808318773257437216)](https://discord.com/users/808318773257437216)
+[![Discord Presence](https://lanyard.cnrad.dev/api/808318773257437216?showDisplayName=true)](https://discord.com/users/808318773257437216)
 
 ## 👨‍💻 About Me
 
