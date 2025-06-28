@@ -42,11 +42,11 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 
 <div>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuj-weebjs&label=Profile%20Views%20&color=dc143c&style=plastic" alt="anuj-weebjs" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=notcorefr&label=Profile%20Views%20&color=dc143c&style=plastic" alt="notcorefr" /> </p>
 
   <div align="center">
-    <a href="#"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-weebjs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-weebjs&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcorefr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcorefr&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
 
   </div>
