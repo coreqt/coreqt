@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 📝 About Me
 
 I'm a backend developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
@@ -9,14 +9,15 @@ Technologies that I've been learning and I've picked up along my programming jou
 ### 👨‍💻 Programming Languages :
 
 <p align="center">
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230078D4.svg?logo=TypeScript&logoColor=white">
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0078D4.svg?logo=TypeScript&logoColor=white">
 </P>
 
-### ✨ Backend :
+### ✨ Frameworks :
 
 <p align="center">
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+<img alt="discord.js" src="https://img.shields.io/badge/Discord.js-5865F2?logo=discorddotjs&logoColor=white">
 <img alt="express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
@@ -45,8 +46,8 @@ Technologies that I've been learning and I've picked up along my programming jou
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=notcorefr&label=Profile%20Views%20&color=dc143c&style=plastic" alt="notcorefr" /> </p>
 
   <div align="center">
-    <a href="#"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcorefr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcorefr&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="core's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcorefr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="core's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcorefr&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
 
   </div>
