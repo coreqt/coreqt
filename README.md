@@ -48,15 +48,15 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 <div>
     <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=notcorefr&label=Profile%20Views%20&color=dc143c&style=plastic" alt="notcorefr" /> 
+        <img src="https://komarev.com/ghpvc/?username=coreqt&label=Profile%20Views%20&color=dc143c&style=plastic" alt="coreqt" /> 
     </p>
 
   <div align="center">
     <a href="#">
-        <img alt="core's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcorefr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
+        <img alt="core's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coreqt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
     </a>
     <a href="#">
-        <img alt="core's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcorefr&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
+        <img alt="core's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreqt&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
     </a>
     <br/>
 
