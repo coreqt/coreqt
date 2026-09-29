@@ -1,6 +1,6 @@
 ## 📝 About Me
 
-I'm a backend developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I'm a backend developer who is interested about making open source contributions, creating tools to help people, and building community.
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -11,6 +11,10 @@ Technologies that I've been learning and I've picked up along my programming jou
 <p align="center">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0078D4.svg?logo=TypeScript&logoColor=white">
+    <!--
+<img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    -->
 </P>
 
 ### ✨ Frameworks :
@@ -27,10 +31,11 @@ Technologies that I've been learning and I've picked up along my programming jou
 ### 🛠 OS & IDE & Tools : <br />
 
 <p align="center">
-<img alt="archLinux" src="https://img.shields.io/badge/-Arch_Linux-black?logo=archlinux">
-<img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white">
+<!-- <img alt="archLinux" src="https://img.shields.io/badge/-Arch_Linux-black?logo=archlinux"> -->
+<img alt="windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+<img alt="vs-code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-<img alt="shell-script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white">
+<!-- <img alt="shell-script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white"> -->
 </P>
 
 ## 🌐 Discord
@@ -53,10 +58,10 @@ Technologies that I've been learning and I've picked up along my programming jou
 
   <div align="center">
     <a href="#">
-        <img alt="core's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coreqt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB" height="200"/>
+        <img alt="core's Github Stats" src="https://github-stats-extended.vercel.app/api?username=coreqt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB" height="200"/>
     </a>
     <a href="#">
-        <img alt="core's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreqt&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB" height="200"/>
+        <img alt="core's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=coreqt&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB" height="200"/>
     </a>
     <br/>
 
